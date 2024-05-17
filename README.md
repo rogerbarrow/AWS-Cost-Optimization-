@@ -14,3 +14,5 @@
 
 # Next Step We need to grant permission
 !![image](https://github.com/rogerbarrow/AWS-Cost-Optimization-/assets/46138186/b4c5e763-42c2-4c22-9340-a4d62432314a)
+ # I will delete the Instance 
+ !![image](https://github.com/rogerbarrow/AWS-Cost-Optimization-/assets/46138186/49a93fa8-c177-4547-957f-4d8e2086164c)
