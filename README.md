@@ -5,6 +5,7 @@
 !![image](https://github.com/rogerbarrow/AWS-Cost-Optimization-/assets/46138186/f2dfa814-fcef-4ace-bf00-d019adb8291e)
 # create a snapshot
 !![image](https://github.com/rogerbarrow/AWS-Cost-Optimization-/assets/46138186/1abe5cce-37d7-43b0-97ca-1954a6dc7fc3)
+! ![image](https://github.com/rogerbarrow/AWS-Cost-Optimization-/assets/46138186/8b9e9e96-d98e-4615-b17e-682dc7bc63c2)
 
 ! ![image](https://github.com/rogerbarrow/AWS-Cost-Optimization-/assets/46138186/92195034-5ac0-472a-a263-8458c116ff97)
 # your lambda function will fail because of permission issues
