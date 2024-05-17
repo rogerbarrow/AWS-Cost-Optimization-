@@ -16,3 +16,4 @@
 !![image](https://github.com/rogerbarrow/AWS-Cost-Optimization-/assets/46138186/b4c5e763-42c2-4c22-9340-a4d62432314a)
  # I will delete the Instance 
  !![image](https://github.com/rogerbarrow/AWS-Cost-Optimization-/assets/46138186/49a93fa8-c177-4547-957f-4d8e2086164c)
+!![image](https://github.com/rogerbarrow/AWS-Cost-Optimization-/assets/46138186/958371e9-8608-45cb-9b3f-ec4a8600dae1)
