@@ -12,3 +12,5 @@
 # Udpate the execute time 
 ![image](https://github.com/rogerbarrow/AWS-Cost-Optimization-/assets/46138186/efea3d29-1d13-4f50-86bb-c2efc7968806)
 
+# Next Step We need to grant permission
+!![image](https://github.com/rogerbarrow/AWS-Cost-Optimization-/assets/46138186/b4c5e763-42c2-4c22-9340-a4d62432314a)
