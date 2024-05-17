@@ -9,3 +9,6 @@
 ! ![image](https://github.com/rogerbarrow/AWS-Cost-Optimization-/assets/46138186/92195034-5ac0-472a-a263-8458c116ff97)
 # your lambda function will fail because of permission issues
 !![image](https://github.com/rogerbarrow/AWS-Cost-Optimization-/assets/46138186/ddbb60f6-07bb-4abf-a047-1be31209dd9a)
+# Udpate the execute time 
+![image](https://github.com/rogerbarrow/AWS-Cost-Optimization-/assets/46138186/efea3d29-1d13-4f50-86bb-c2efc7968806)
+
