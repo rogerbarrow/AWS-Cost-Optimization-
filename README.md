@@ -17,3 +17,7 @@
  # I will delete the Instance 
  !![image](https://github.com/rogerbarrow/AWS-Cost-Optimization-/assets/46138186/49a93fa8-c177-4547-957f-4d8e2086164c)
 !![image](https://github.com/rogerbarrow/AWS-Cost-Optimization-/assets/46138186/958371e9-8608-45cb-9b3f-ec4a8600dae1)
+# Run the function again
+![image](https://github.com/rogerbarrow/AWS-Cost-Optimization-/assets/46138186/4a7f83dd-9a35-4655-ad01-295227d98f74)
+ # Verify the snapshot was deleted 
+ ![image](https://github.com/rogerbarrow/AWS-Cost-Optimization-/assets/46138186/00eaa847-7124-4d53-b5b9-5cb4aec578bf)
